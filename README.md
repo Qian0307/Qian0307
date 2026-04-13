@@ -15,7 +15,6 @@ Psychology × EdTech × Learning Systems
 
 </div>
 
----
 
 <!-- ABOUT -->
 <h2 align="center"> About / 關於我</h2>
@@ -29,7 +28,7 @@ Psychology × EdTech × Learning Systems
 
 </div>
 
----
+
 
 <!-- PROJECT SHOWCASE -->
 <h2 align="center"> Projects  專案</h2>
@@ -43,7 +42,7 @@ Interactive cognitive puzzle system  互動式認知解謎系統
 → Gamified learning through problem solving  透過解題進行遊戲化學習  
 → Focus on cognitive engagement  強調認知參與與思考訓練  
 
----
+
 
 ###   Math Practice System
 <a href="https://github.com/Qian0307/addtion-subtraction-question">
@@ -52,7 +51,7 @@ Elementary arithmetic training system  小學數學訓練系統
 → Adaptive practice for students  自適應練習機制  
 → Learning reinforcement system  學習強化系統  
 
----
+
 
 ###  French Learning App
 <a href="https://github.com/Qian0307/frenchapp">
@@ -63,7 +62,7 @@ Language acquisition tool  語言習得工具
 
 </div>
 
----
+
 
 <!-- SKILLS -->
 <h2 align="center"> Core Skills  核心技能</h2>
@@ -83,7 +82,6 @@ Learning Systems Design • Psychology • EdTech
 
 </div>
 
----
 
 <!-- STATS -->
 <h2 align="center"> Stats  數據統計</h2>
@@ -102,7 +100,6 @@ Learning Systems Design • Psychology • EdTech
 
 </div>
 
----
 
 <!-- PHILOSOPHY -->
 <h2 align="center"> Philosophy / 核心理念</h2>
@@ -117,7 +114,7 @@ It is behavior change.
 
 </div>
 
----
+
 
 <!-- CTA -->
 <h2 align="center"> Contact / 聯絡</h2>
