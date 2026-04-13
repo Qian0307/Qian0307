@@ -1,4 +1,5 @@
 # Hi, I'm 雙城風月 👋  
+<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=[Qian0307]&theme=vue-dark&line_height=22&layout=compact&hide=less" />
 🎓 Psychology student @ NCKU  
 🧠 Passionate about human behavior & learning systems  
 🚀 Building interactive education tools & AI-driven learning platforms  
