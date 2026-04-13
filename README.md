@@ -11,8 +11,6 @@ Psychology × EdTech × Learning Systems
 
 </div>
 
----
-
 <!-- ABOUT -->
 <h2 align="center"> About</h2>
 
@@ -25,7 +23,6 @@ Psychology × EdTech × Learning Systems
 
 </div>
 
----
 
 <!-- PROJECT SHOWCASE -->
 <h2 align="center"> Projects</h2>
@@ -39,7 +36,7 @@ Interactive cognitive puzzle system
 → Gamified learning through problem solving  
 → Focus on cognitive engagement
 
----
+
 
 ###  Math Practice System
 <a href="https://github.com/Qian0307/addtion-subtraction-question">
@@ -48,7 +45,7 @@ Elementary arithmetic training system
 → Adaptive practice for students  
 → Learning reinforcement system
 
----
+
 
 ###  French Learning App
 <a href="https://github.com/Qian0307/frenchapp">
@@ -59,7 +56,7 @@ Language acquisition tool
 
 </div>
 
----
+
 
 <!-- SKILLS -->
 <h2 align="center"> Core Skills</h2>
@@ -74,7 +71,7 @@ Language acquisition tool
 
 </div>
 
----
+
 
 <!-- STATS -->
 <h2 align="center"> Stats</h2>
@@ -85,7 +82,7 @@ Language acquisition tool
 
 </div>
 
----
+
 
 <!-- PHILOSOPHY -->
 <h2 align="center"> Philosophy</h2>
@@ -97,7 +94,6 @@ It is behavior change.
 
 </div>
 
----
 
 <!-- CTA -->
 <h2 align="center">💬 Contact</h2>
