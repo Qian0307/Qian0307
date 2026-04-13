@@ -21,10 +21,17 @@ Psychology × EdTech × Learning Systems
 
 <div align="center">
 
-🎓 Psychology background  心理學背景  
-🧠 Focus: human behavior & learning science  專注於人類行為與學習科學  
-💡 Building interactive learning systems  建構互動式學習系統  
-🎯 Goal: make learning more efficient and adaptive  目標：讓學習更高效且具適應性  
+I come from a psychology background, with a strong focus on understanding how humans think, learn, and adapt in real-world environments.  
+My interest lies in human behavior and learning science, particularly in how cognitive processes shape the way knowledge is acquired, structured, and retained over time.  
+Rather than viewing learning as a purely theoretical concept, I am currently focused on building interactive learning systems that bridge psychology and technology, transforming abstract learning theories into practical and usable tools.  
+Within this work, my goal is to design learning environments that are not only efficient, but also adaptive to individual differences, enabling learners to progress in ways that align with their cognitive patterns.  
+More broadly, I am interested in how technology can reshape education into a more personalized, data-informed, and behavior-driven process, moving away from one-size-fits-all learning models toward systems that better reflect how people actually learn.  
+
+我來自心理學背景，專注於理解人類如何在真實環境中思考、學習與適應。
+我的興趣集中在人類行為與學習科學，特別是認知歷程如何影響知識的獲取、結構化與長期記憶。
+我不將學習視為純理論概念，而是致力於建構結合心理學與科技的互動式學習系統，將抽象的學習理論轉化為可實際使用的工具。
+在這項工作中，我的目標是設計不僅高效率，同時能適應個別差異的學習環境，使學習者能依照自身認知模式持續成長。
+更廣泛而言，我關注科技如何將教育從單一標準化模式，轉變為更個人化、數據導向與行為驅動的系統，使其更貼近人類真實的學習方式。
 
 </div>
 
