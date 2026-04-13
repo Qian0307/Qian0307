@@ -1,81 +1,95 @@
-# Hi, I'm 雙城風月 👋  
-🎓 Psychology student @ NCKU  
-🧠 Passionate about human behavior & learning systems  
-🚀 Building interactive education tools & AI-driven learning platforms  
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 千琇'𝓼 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78AFF&center=true&vCenter=true&width=600&lines=Psychology+Student+%F0%9F%A7%A0;EdTech+Builder+%F0%9F%9A%80;Learning+Systems+Designer+%F0%9F%93%9A;Future+AI+Engineer+%F0%9F%A4%96" />
+
+<br><br>
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>
+
+<p>𝒯𝒽𝑒 𝓌𝒶𝓎 𝓅𝑒𝑜𝓅𝓁𝑒 𝓁𝑒𝒶𝓇𝓃</p>
+<p>𝒾𝓈 𝓂𝑜𝓇𝑒 𝒾𝓂𝓅𝑜𝓇𝓉𝒶𝓃𝓉 𝓉𝒽𝒶𝓃 𝓌𝒽𝒶𝓉 𝓉𝒽𝑒𝓎 𝓁𝑒𝒶𝓇𝓃</p>
+
+</div>
 
 ---
 
-## 💡 About Me
-- 📚 Major in Psychology (心理學)
-- 🎯 Focus: Learning efficiency, behavior patterns, EdTech
-- 🛠 Interested in: AI + Education + System Design
-- 🔥 Goal: Build scalable learning systems that actually improve how people learn
+<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
+
+<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+
+- Psychology student @ NCKU
+- Focus on human behavior & learning systems  
+- Building EdTech & AI learning tools  
+- Goal: Create systems that improve learning efficiency  
+
+<br><br><br><br>
 
 ---
 
-## 🛠 Skills
-- 💻 Programming: Python / JavaScript (learning)
-- 🎨 Design: Canva / Photoshop
-- 📊 Tools: Excel / Notion / Data Organization
-- 🧠 Domain: Psychology / Learning Science
-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h2 align="center">📇 ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📇</h2>
+
+<div align="center">
+
+ **Interactive Sentence Learning System**  
+→ Real-time teacher-student interaction  
+→ Automatic sentence validation  
+
+ **Elementary Learning Games**  
+→ Gamified Chinese learning  
+→ Designed for young learners  
+
+ **Notion Productivity System**  
+→ Habit tracking + data automation  
+
+</div>
 
 ---
 
-## 🚀 Projects
+<h2 align="center"> ~ 𝓒𝓸𝓻𝓮 𝓢𝓴𝓲𝓵𝓵𝓼 ~ </h2>
 
-### 📚 Interactive Sentence Learning System
-> A real-time teacher-student learning platform
+<div align="center">
 
-- Students create sentences based on given words
-- System checks correctness automatically
-- Supports remote learning & live synchronization  
-- Tech: (to be added)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical"/>
+
+</div>
 
 ---
 
-### 🎮 Elementary Chinese Learning Games
-> Gamified learning platform for young students
+<h2 align="center"> ~ 𝓣𝓸𝓸𝓵𝓼 ~ </h2>
 
-- Vocabulary building & sentence practice
-- Interactive quizzes & fill-in-the-blank exercises
-- Designed for grade 2–3 students  
-- Tech: (to be added)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,notion,photoshop"/>
 
-### 📊 Notion Productivity System
-> Personal knowledge & task management system
-
-- Automated data organization
-- Daily tracking (habits, finance, learning)
-- Integrated reflection system  
+</div>
 
 ---
 
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<h2 align="center"> ~ 𝓓𝓪𝓲𝓵𝔂 𝓛𝓸𝓰 ~ </h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<div align="center">
 
----
+<!--START_SECTION-->
+Loading daily learning data...
+<!--END_SECTION-->
 
-## 🧠 Psychology x Tech
-I’m especially interested in:
-- How people learn (learning mechanisms)
-- Behavior patterns in real-world contexts
-- Applying psychology to build better systems  
+</div>
 
 ---
 
-## 🎯 Current Focus
-- Building an AI-powered learning platform
-- Improving programming skills (Python / Web Dev)
-- Designing scalable education systems  
+<h2 align="center"> ~ 𝓢𝓽𝓪𝓽𝓼 ~ </h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Qian0307&show_icons=true&theme=radical"/>
+
+</div>
 
 ---
 
-## 📫 Contact
-- Email: cc8576a@gmail.com
-- GitHub: https://github.com/Qian0307
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 ~ 💖</h2>
+
+<div align="center">
+</div>
