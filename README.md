@@ -21,17 +21,14 @@ Psychology × EdTech × Learning Systems
 
 <div align="center">
 
-I come from a psychology background, with a strong focus on understanding how humans think, learn, and adapt in real-world environments.  
-My interest lies in human behavior and learning science, particularly in how cognitive processes shape the way knowledge is acquired, structured, and retained over time.  
-Rather than viewing learning as a purely theoretical concept, I am currently focused on building interactive learning systems that bridge psychology and technology, transforming abstract learning theories into practical and usable tools.  
-Within this work, my goal is to design learning environments that are not only efficient, but also adaptive to individual differences, enabling learners to progress in ways that align with their cognitive patterns.  
-More broadly, I am interested in how technology can reshape education into a more personalized, data-informed, and behavior-driven process, moving away from one-size-fits-all learning models toward systems that better reflect how people actually learn.  
+<p align="left">
+I am a Psychology student at National Cheng Kung University (NCKU), specializing in the intersection of human cognition and educational technology. My work focuses on how cognitive processes shape knowledge acquisition and how to build systems that adapt to these patterns.  
+我目前就讀於國立成功大學心理學系，專注於人類認知與教育科技的交叉領域。我的研究核心在於認知歷程如何形塑知識獲取，以及如何建構能適應這些模式的學習系統。
 
-我來自心理學背景，專注於理解人類如何在真實環境中思考、學習與適應。
-我的興趣集中在人類行為與學習科學，特別是認知歷程如何影響知識的獲取、結構化與長期記憶。
-我不將學習視為純理論概念，而是致力於建構結合心理學與科技的互動式學習系統，將抽象的學習理論轉化為可實際使用的工具。
-在這項工作中，我的目標是設計不僅高效率，同時能適應個別差異的學習環境，使學習者能依照自身認知模式持續成長。
-更廣泛而言，我關注科技如何將教育從單一標準化模式，轉變為更個人化、數據導向與行為驅動的系統，使其更貼近人類真實的學習方式。
+<p align="left">Current Focus  目前關注: Developing adaptive learning systems that bridge psychology and software. 開發結合心理學與軟體工程的自適應學習系統</p>
+<p align="left">Core Goal  核心目標: Transforming abstract learning theories into practical, behavior-driven tools. 將抽象的學習理論轉化為實用的、行為驅動的工具</p>
+<p align="left">Philosophy  理念: I believe technology should move away from "one-size-fits-all" toward systems that reflect how people actually learn. 我認為科技應脫離「一套標準適用所有人」的模式，轉向能反映人類真實學習規律的系統</p>
+</p>
 
 </div>
 
@@ -42,30 +39,17 @@ More broadly, I am interested in how technology can reshape education into a mor
 
 <div align="center">
 
-###  Escape Room Word Game
-<a href="https://github.com/Qian0307/Escape-Room-Word-Game">
-Interactive cognitive puzzle system  互動式認知解謎系統
-</a>  
-→ Gamified learning through problem solving  透過解題進行遊戲化學習  
-→ Focus on cognitive engagement  強調認知參與與思考訓練  
+###  [Escape Room Word Game / 認知解謎遊戲](https://github.com/Qian0307/Escape-Room-Word-Game)
+ **EN:** An interactive puzzle system designed to enhance cognitive engagement through gamified problem-solving.
+ **中:** 透過遊戲化解題設計的互動式系統，旨在提升學習者的認知參與度。
 
+###  [Math Practice System / 小學數學自適應系統](https://github.com/Qian0307/addtion-subtraction-question)
+ **EN:** An elementary arithmetic trainer featuring adaptive practice mechanisms based on learning reinforcement.
+ **中:** 基於學習強化理論的小學算術訓練系統，具備自適應練習機制。
 
-
-###   Math Practice System
-<a href="https://github.com/Qian0307/addtion-subtraction-question">
-Elementary arithmetic training system  小學數學訓練系統
-</a>  
-→ Adaptive practice for students  自適應練習機制  
-→ Learning reinforcement system  學習強化系統  
-
-
-
-###  French Learning App
-<a href="https://github.com/Qian0307/frenchapp">
-Language acquisition tool  語言習得工具
-</a>  
-→ Vocabulary + sentence building  單字與句型建構  
-→ Structured language input system  結構化語言輸入系統  
+###  [French Learning App / 語言習得工具](https://github.com/Qian0307/frenchapp)
+ **EN:** A structured input tool for language acquisition, focusing on vocabulary retention and sentence architecture.
+ **中:** 結構化語言習得工具，專注於單字記憶提取與句型結構建構。
 
 </div>
 
@@ -76,10 +60,11 @@ Language acquisition tool  語言習得工具
 
 <div align="center">
 
-Python • JavaScript • HTML • CSS • React • Node.js  • Git • flutter • R
-
-Learning Systems Design • Psychology • EdTech  
-學習系統設計 • 心理學 • 教育科技  
+| Category / 類別 | Tools & Languages / 工具與語言 |
+| :--- | :--- |
+| **Development / 開發** | `Python`, `JavaScript`, `React`, `Node.js`, `Flutter` |
+| **Research / 研究** | `R Language` (Statistics), `Git`, `Markdown` |
+| **Domain / 專業領域** | `Cognitive Psychology`, `Learning Science`, `UX Research` |
 
 </div>
 
