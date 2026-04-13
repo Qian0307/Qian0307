@@ -147,17 +147,6 @@ and evolve into systems that reflect how people actually learn.
 
 </div>
 
-<h2 align="center"> Language Usage  語言使用統計</h2>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact" />
-
-<br>
-
-<img src="https://img.shields.io/github/languages/top/Qian0307/frenchapp?style=for-the-badge" />
-
-</div>
 
 <!-- STATS -->
 <h2 align="center"> Stats  數據統計</h2>
