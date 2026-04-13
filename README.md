@@ -110,6 +110,7 @@ It is behavior change.
 <h2 align="center"> Contact / 聯絡</h2>
 
 <div align="center">
+email:cc8576a@gmail.com
 
 Feel free to explore my projects  
 歡迎探索我的專案  
