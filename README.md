@@ -151,8 +151,7 @@ and evolve into systems that reflect how people actually learn.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical&langs_count=8" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical&cache_seconds=1" />
 </div>
 
 <!-- STATS -->
