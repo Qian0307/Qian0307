@@ -16,40 +16,113 @@ Psychology × EdTech × Learning Systems
 </div>
 
 
-<!-- ABOUT -->
-<h2 align="center"> About / 關於我</h2>
+
+<!-- =========================
+        ABOUT
+========================= -->
+
+<h2 align="center"> About  關於我</h2>
 
 <div align="center">
 
-<p align="left">
-I am a Psychology student at National Cheng Kung University (NCKU), specializing in the intersection of human cognition and educational technology. My work focuses on how cognitive processes shape knowledge acquisition and how to build systems that adapt to these patterns.  
-我目前就讀於國立成功大學心理學系，專注於人類認知與教育科技的交叉領域。我的研究核心在於認知歷程如何形塑知識獲取，以及如何建構能適應這些模式的學習系統。
+<table width="85%">
+<tr>
+<td align="left">
 
-<p align="left">Current Focus  目前關注: Developing adaptive learning systems that bridge psychology and software. 開發結合心理學與軟體工程的自適應學習系統</p>
-<p align="left">Core Goal  核心目標: Transforming abstract learning theories into practical, behavior-driven tools. 將抽象的學習理論轉化為實用的、行為驅動的工具</p>
-<p align="left">Philosophy  理念: I believe technology should move away from "one-size-fits-all" toward systems that reflect how people actually learn. 我認為科技應脫離「一套標準適用所有人」的模式，轉向能反映人類真實學習規律的系統</p>
-</p>
+I am a Psychology student at National Cheng Kung University (NCKU), specializing in the intersection of human cognition and educational technology.  
+My work focuses on how cognitive processes shape knowledge acquisition and how to build systems that adapt to these patterns.
+
+<br><br>
+
+我目前就讀於國立成功大學心理學系，專注於人類認知與教育科技的交叉領域。  
+研究核心在於認知歷程如何形塑知識獲取，以及如何建構能適應這些模式的學習系統。
+
+</td>
+</tr>
+</table>
+
+
+
+###  Current Focus  目前關注
+
+<div align="center">
+
+Adaptive learning systems bridging psychology and software engineering  
+開發結合心理學與軟體工程的自適應學習系統
 
 </div>
 
 
 
-<!-- PROJECT SHOWCASE -->
+###  Core Goal  核心目標
+
+<div align="center">
+
+Transform abstract learning theories into practical, behavior-driven tools  
+將抽象的學習理論轉化為實用的行為驅動工具
+
+</div>
+
+
+###  Philosophy  理念
+
+<div align="center">
+
+Technology should move beyond "one-size-fits-all"  
+and evolve into systems that reflect how people actually learn.  
+
+科技應超越「一體適用」的模式，  
+轉向更貼近人類真實學習方式的系統。
+
+</div>
+
+</div>
+
+
+<!-- =========================
+        PROJECTS
+========================= -->
+
 <h2 align="center"> Projects  專案</h2>
 
 <div align="center">
 
-###  [Escape Room Word Game / 認知解謎遊戲](https://github.com/Qian0307/Escape-Room-Word-Game)
- **EN:** An interactive puzzle system designed to enhance cognitive engagement through gamified problem-solving.
- **中:** 透過遊戲化解題設計的互動式系統，旨在提升學習者的認知參與度。
+<table width="90%">
 
-###  [Math Practice System / 小學數學自適應系統](https://github.com/Qian0307/addtion-subtraction-question)
- **EN:** An elementary arithmetic trainer featuring adaptive practice mechanisms based on learning reinforcement.
- **中:** 基於學習強化理論的小學算術訓練系統，具備自適應練習機制。
+<tr>
+<td>
 
-###  [French Learning App / 語言習得工具](https://github.com/Qian0307/frenchapp)
- **EN:** A structured input tool for language acquisition, focusing on vocabulary retention and sentence architecture.
- **中:** 結構化語言習得工具，專注於單字記憶提取與句型結構建構。
+###  [Escape Room Word Game](https://github.com/Qian0307/Escape-Room-Word-Game)
+
+**EN:** Interactive puzzle system designed to enhance cognitive engagement through gamified problem-solving.  
+**中:** 透過遊戲化解題提升認知參與的互動式學習系統。
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+###  [Math Practice System](https://github.com/Qian0307/addtion-subtraction-question)
+
+**EN:** Adaptive arithmetic training system based on learning reinforcement mechanisms.  
+**中:** 基於學習強化機制的小學數學自適應訓練系統。
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+###  [French Learning App](https://github.com/Qian0307/frenchapp)
+
+**EN:** Structured language acquisition tool focusing on vocabulary retention and sentence construction.  
+**中:** 結構化語言習得工具，專注單字記憶與句型建構。
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -60,11 +133,11 @@ I am a Psychology student at National Cheng Kung University (NCKU), specializing
 
 <div align="center">
 
-| Category / 類別 | Tools & Languages / 工具與語言 |
+| Category  類別 | Tools & Languages  工具與語言 |
 | :--- | :--- |
-| **Development / 開發** | `Python`, `JavaScript`, `React`, `Node.js`, `Flutter` |
-| **Research / 研究** | `R Language` (Statistics), `Git`, `Markdown` |
-| **Domain / 專業領域** | `Cognitive Psychology`, `Learning Science`, `UX Research` |
+| **Development  開發** | `Python`, `JavaScript`, `React`, `Node.js`, `Flutter` |
+| **Research  研究** | `R Language` (Statistics), `Git`, `Markdown` |
+| **Domain  專業領域** | `Cognitive Psychology`, `Learning Science`, `UX Research` |
 
 </div>
 
@@ -92,7 +165,7 @@ I am a Psychology student at National Cheng Kung University (NCKU), specializing
 
 
 <!-- PHILOSOPHY -->
-<h2 align="center"> Philosophy / 核心理念</h2>
+<h2 align="center"> Philosophy  核心理念</h2>
 
 <div align="center">
 
@@ -110,6 +183,7 @@ It is behavior change.
 <h2 align="center"> Contact / 聯絡</h2>
 
 <div align="center">
+  
 email:cc8576a@gmail.com
 
 Feel free to explore my projects  
