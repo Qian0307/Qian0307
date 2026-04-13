@@ -151,11 +151,11 @@ and evolve into systems that reflect how people actually learn.
 
 <div align="center">
 
-<img src="https://your-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact" />
 
 <br>
 
-<img src="https://img.shields.io/github/languages/top/Qian0307/Qian0307?style=for-the-badge" />
+<img src="https://img.shields.io/github/languages/top/Qian0307/frenchapp?style=for-the-badge" />
 
 </div>
 
