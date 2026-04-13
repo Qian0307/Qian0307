@@ -63,11 +63,14 @@ Language acquisition tool
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,notion&perline=5"/>
+Python • JavaScript • HTML • CSS • React • Node.js  
+Learning Systems Design • Psychology • EdTech
 
-<br><br>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,notion" />
 
 </div>
 
@@ -78,7 +81,15 @@ Language acquisition tool
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Qian0307&show_icons=true&theme=radical"/>
+<!-- PRIMARY (GitHub Readme Stats mirror) -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Qian0307&show_icons=true&theme=radical" />
+
+<!-- FALLBACK (only shows if above fails) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical" />
+
+<!-- ULTRA FALLBACK -->
+<img src="https://img.shields.io/github/stars/Qian0307?style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Qian0307?style=for-the-badge" />
 
 </div>
 
@@ -96,7 +107,7 @@ It is behavior change.
 
 
 <!-- CTA -->
-<h2 align="center">💬 Contact</h2>
+<h2 align="center"> Contact</h2>
 
 <div align="center">
 
