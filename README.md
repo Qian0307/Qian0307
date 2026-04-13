@@ -78,7 +78,7 @@ Learning Systems Design • Psychology • EdTech
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,flutter,R" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,flutter,r" />
 
 </div>
 
@@ -91,8 +91,6 @@ Learning Systems Design • Psychology • EdTech
 <!-- PRIMARY (GitHub Readme Stats mirror) -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Qian0307&show_icons=true&theme=radical" />
 
-<!-- FALLBACK -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qian0307&layout=compact&theme=radical" />
 
 <!-- ULTRA FALLBACK -->
 <img src="https://img.shields.io/github/stars/Qian0307?style=for-the-badge" />
